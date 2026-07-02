@@ -37,10 +37,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anantvasu200&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anantvasu200&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anantvasu200&show_icons=true&theme=radical&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Anantvasu200&theme=radical&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anantvasu200&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anantvasu200&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
