@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anant</h1>
+<h3 align="center">Platform / DevSecOps Engineer | Observability & Cloud Security Enthusiast</h3>
 
-<!--
-**Anantvasu200/Anantvasu200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anantvasu200&color=blue" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I work as a <b>Platform/DevSecOps Engineer</b>, building secure, observable infrastructure with the
+  Elastic Stack, Kubernetes, and CI/CD pipelines. I love automating things, breaking things (safely),
+  and writing about what I learn along the way.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently working on **Elastic SIEM, Cribl Stream pipelines, and Kubernetes-based platform engineering**
+- 🔭 Recently exploring **Elastic Agent Builder & AI agent architecture on Elastic Stack**
+- 📝 I occasionally write about DevOps, security, and homelab projects
+- 💬 Ask me about **Elasticsearch, Kibana, Cribl, Kubernetes (k3s), Docker, Jenkins, Terraform, Azure**
+- 🎤 Speaking at **COSCUP 2026, Taipei** — *"Observability on Ubuntu with Elastic Stack"*
+- 📍 Based in New Delhi, India
+
+### 🔗 Connect with me
+
+<p align="left">
+<a href="https://maiananthoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,docker,kubernetes,linux,git,github,jenkins,terraform,azure,elasticsearch,nginx,bash,mysql" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anantvasu200&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anantvasu200&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anantvasu200&layout=compact&theme=radical" />
+</p>
